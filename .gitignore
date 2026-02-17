@@ -1,0 +1,10 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Mac junk
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
